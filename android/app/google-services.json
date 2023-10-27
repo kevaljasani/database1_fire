@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267458433897",
+    "project_id": "datafire-476b6",
+    "storage_bucket": "datafire-476b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267458433897:android:8e6898c619c3fcfc7023f8",
+        "android_client_info": {
+          "package_name": "com.example.database1_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0F-1c1ew3XEvS9EdsNnoATBPFyLfzDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
